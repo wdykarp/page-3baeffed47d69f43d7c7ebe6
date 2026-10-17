@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-8861f8f2c3.yuyuesheng.cn/sitemap.xml
